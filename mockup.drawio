@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T10:55:41.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="UuijcxZeVU9WzN_naGtV" version="14.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-13T11:16:42.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="P_TD-_yPNGq-996302Vl" version="14.6.10" type="github" pages="2">
   <diagram id="ajXg00BSEDiz5AY4WQRb" name="Page-1">
-    <mxGraphModel dx="785" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,64 +8,64 @@
           <mxGeometry x="140" y="50" width="710" height="560" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=50.667;handleStyle=circle;fillColor2=#ddeeff;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="310" y="250" width="150" height="25" as="geometry" />
+          <mxGeometry x="319" y="250" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-9" value="4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="310" y="160" width="140" height="30" as="geometry" />
+          <mxGeometry x="320" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-11" value="Calcolatore impasto pizza" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="330" y="90" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-12" value="Quante pizze ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="162.5" width="110" height="20" as="geometry" />
+          <mxGeometry x="180" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-13" value="Peso (gr)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="205" width="110" height="20" as="geometry" />
+          <mxGeometry x="180" y="205" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-14" value="200" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="310" y="205" width="140" height="25" as="geometry" />
+          <mxGeometry x="319" y="205" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-16" value="% Acqua (idratazione)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="250" width="120" height="20" as="geometry" />
+          <mxGeometry x="180" y="255" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-17" value="60%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="252.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="255" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-18" value="Sale (gr su kg farina)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="155" y="300" width="120" height="20" as="geometry" />
+          <mxGeometry x="180" y="300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=34.444;handleStyle=circle;fillColor2=#ddeeff;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="310" y="295" width="150" height="25" as="geometry" />
+          <mxGeometry x="319" y="295" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-20" value="20 gr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="295" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="300" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-21" value="Olio (gr su kg farina)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="155" y="350" width="120" height="20" as="geometry" />
+          <mxGeometry x="180" y="345" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=76;handleStyle=circle;fillColor2=#ddeeff;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="310" y="340" width="150" height="25" as="geometry" />
+          <mxGeometry x="320" y="340" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-23" value="40gr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="340" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="345" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-24" value="Ore Lievitazione" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="155" y="395" width="120" height="20" as="geometry" />
+          <mxGeometry x="180" y="392.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-26" value="6" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="310" y="380" width="140" height="25" as="geometry" />
+          <mxGeometry x="320" y="385" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-27" value="Temperatura Ambiente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="440" width="120" height="20" as="geometry" />
+          <mxGeometry x="180" y="440" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-28" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=53.444;handleStyle=circle;fillColor2=#ddeeff;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="314" y="435" width="150" height="25" as="geometry" />
+          <mxGeometry x="319" y="435" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-29" value="20°" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="435" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-32" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" parent="1" vertex="1">
-          <mxGeometry x="260" y="530" width="110" height="50" as="geometry" />
+          <mxGeometry x="240" y="530" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-33" value="Calcola" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" parent="noW3eaqpaG11b2CCaeyX-32" vertex="1">
           <mxGeometry y="15" width="109.99999999999999" height="20" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="735" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-112" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" parent="1" vertex="1">
-          <mxGeometry x="390" y="530" width="110" height="50" as="geometry" />
+          <mxGeometry x="380" y="530" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="noW3eaqpaG11b2CCaeyX-113" value="Pulisci" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" parent="noW3eaqpaG11b2CCaeyX-112" vertex="1">
           <mxGeometry y="15" width="109.99999999999999" height="20" as="geometry" />
