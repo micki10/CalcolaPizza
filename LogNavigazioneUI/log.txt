@@ -1,0 +1,507 @@
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 10:32:54</DataOra>
+  <tipo>avvio</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 10:33:16</DataOra>
+  <tipo>chiusura</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 10:33:34</DataOra>
+  <tipo>avvio</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 10:33:41</DataOra>
+  <tipo>calcola</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 10:33:59</DataOra>
+  <tipo>chiusura</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 11:59:44</DataOra>
+  <tipo>avvio</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 11:59:54</DataOra>
+  <tipo>calcola</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:00:05</DataOra>
+  <tipo>pulisci</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:00:11</DataOra>
+  <tipo>pulisci</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:00:54</DataOra>
+  <tipo>calcola</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:01:04</DataOra>
+  <tipo>pulisci</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:01:33</DataOra>
+  <tipo>calcola</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:01:50</DataOra>
+  <tipo>salva</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:01:58</DataOra>
+  <tipo>elimina</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:02:04</DataOra>
+  <tipo>chiusura</tipo>
+</EventoNavigazioneUI>
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:05:59</DataOra>
+  <tipo>avvio</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:06:24</DataOra>
+  <tipo>pulisci</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:06:24</DataOra>
+  <tipo>pulisci</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:06:49</DataOra>
+  <tipo>calcola</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:06:57</DataOra>
+  <tipo>calcola</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:07:00</DataOra>
+  <tipo>pulisci</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:07:02</DataOra>
+  <tipo>pulisci</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:07:07</DataOra>
+  <tipo>elimina</tipo>
+</EventoNavigazioneUI>
+<EventoNavigazioneUI>
+  <nomeApplicazione>calcolapizza</nomeApplicazione>
+  <ipClient>localhost</ipClient>
+  <DataOra>13-09-2021 12:07:12</DataOra>
+  <tipo>chiusura</tipo>
+</EventoNavigazioneUI>

@@ -1,0 +1,1 @@
+c:\prg\jdk8\bin\java -classpath ".;.\src;c:\prg\libs\*" CalcolaPizza

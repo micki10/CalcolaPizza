@@ -1,0 +1,19 @@
+<ParametriCalcolaPizza>
+		<colore_bottoni>green</colore_bottoni>
+		<font>Arial</font>
+		<dimensione_font unita="px">14</dimensione_font>
+		<colore_background>gold</colore_background>
+		<finestra_altezza unita="px">600</finestra_altezza>
+		<finestra_larghezza unita="px">800</finestra_larghezza>
+		<ip_client>localhost</ip_client>
+		<ip_server>localhost</ip_server>
+		<porta_server>8080</porta_server>
+		<max_ricette>6</max_ricette>
+		<default_npizze>8</default_npizze>
+		<default_peso unita="gr" >300</default_peso>
+		<default_idro unita="%" >55</default_idro>
+		<default_sale unita="gr/kg">25</default_sale>
+		<default_olio unita="gr/kg">50</default_olio>
+		<default_ore unita="ore">12</default_ore>
+		<default_tamb unita="C">20</default_tamb>
+</ParametriCalcolaPizza>

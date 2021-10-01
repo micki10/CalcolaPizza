@@ -1,0 +1,28 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+
+<!-- log.xsd -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="EventoNavigazioneUI">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nomeApplicazione" type="xs:string"/>
+				<xs:element name="ipClient" type="xs:string"/>
+				<xs:element name="DataOra" type="xs:string"/>
+				<xs:element name="tipo">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:enumeration value="avvio"/>
+							<xs:enumeration value="chiusura"/>
+							<xs:enumeration value="calcola"/>
+							<xs:enumeration value="pulisci"/>
+							<xs:enumeration value="salva"/>
+							<xs:enumeration value="elimina"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

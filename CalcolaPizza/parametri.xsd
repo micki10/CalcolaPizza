@@ -1,0 +1,67 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<!-- parametri.xsd -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<!--  definizione dei simpleType e complexType -->
+	<xs:simpleType name = "elemento_stringa">
+		<xs:restriction base="xs:string"/>
+	</xs:simpleType>
+	
+	<xs:simpleType name = "elemento_intero">
+		<xs:restriction base="xs:string"/>
+	</xs:simpleType>
+	
+	<xs:simpleType name="colori_disponibili">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="blue"/>
+			<xs:enumeration value="orange"/>
+			<xs:enumeration value="yellow"/>
+			<xs:enumeration value="red"/>
+			<xs:enumeration value="green"/>
+			<xs:enumeration value="gold"/>
+			<xs:enumeration value="white"/>
+			<xs:enumeration value="black"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="elemento_con_unita">
+		<xs:simpleContent>
+			<xs:extension base = "xs:string">
+				<xs:attribute name="unita" type ="xs:string"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:simpleType  name="indirizzo_ip">
+		<xs:restriction  base="xs:string">
+		<!-- source: https://stackoverflow.com/questions/47925680/how-do-i-represent-an-ip-address-in-an-xml-schema-definition -->
+			<xs:pattern  value="((1?[0-9]?[0-9]|2[0-4][0-9]|25[0-5])\.){3}(1?[0-9]?[0-9]|2[0-4][0-9]|25[0-5])" />
+			<xs:pattern value="localhost"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+<!-- definizione schema -->
+
+	<xs:element name="ParametriCalcolaPizza">
+		<xs:complexType>
+		    <xs:sequence>
+				<xs:element name="colore_bottoni" type="colori_disponibili"/>
+				<xs:element name="font" type="elemento_stringa"/>	
+				<xs:element name="dimensione_font" type="elemento_con_unita"/>
+				<xs:element name="colore_background" type="colori_disponibili"/>
+				<xs:element name="finestra_altezza" type="elemento_con_unita"/>
+				<xs:element name="finestra_larghezza" type="elemento_con_unita"/>	
+				<xs:element name="ip_client" type="indirizzo_ip"/>
+				<xs:element name="ip_server" type="indirizzo_ip"/>
+				<xs:element name="porta_server" type="elemento_intero"/>			
+				<xs:element name="max_ricette" type="elemento_intero"/>
+				<xs:element name="default_npizze" type="elemento_intero"/>
+				<xs:element name="default_peso" type="elemento_con_unita"/>
+				<xs:element name="default_idro" type="elemento_con_unita"/>
+				<xs:element name="default_sale" type="elemento_con_unita"/>
+				<xs:element name="default_olio" type="elemento_con_unita"/>
+				<xs:element name="default_ore" type="elemento_con_unita"/>	
+				<xs:element name="default_tamb" type="elemento_con_unita"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
